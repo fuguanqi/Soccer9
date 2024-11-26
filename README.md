@@ -3,7 +3,7 @@
 
 # Football Lottery Prediction and Betting Advisor
 
-This repository provides a comprehensive solution for predicting sales and generating betting strategies for China's football lottery games: **14 Matches (\u8db3\u5f6914\u573a)** and its derivative **14 Select 9 (14\u90099)**. The project leverages machine learning and reinforcement learning models to analyze historical data and provide actionable insights.
+This repository provides a comprehensive solution for predicting sales and generating betting strategies for China's football lottery games: **14 Matches** and its derivative **14 Select 9**. The project leverages machine learning and reinforcement learning models to analyze historical data and provide actionable insights.
 
 ---
 
@@ -15,7 +15,7 @@ This repository provides a comprehensive solution for predicting sales and gener
 
 ## Game Rules
 
-### 14 Matches (\u8db3\u5f6914\u573a)
+### 14 Matches
 - **Objective**: Predict the results (Win/Draw/Loss) of 14 selected football matches.
   - **Win (3)**: Home team wins.
   - **Draw (1)**: Match ends in a tie.
@@ -23,17 +23,17 @@ This repository provides a comprehensive solution for predicting sales and gener
 - **Betting Options**:
   - **Single Selection**: Choose one outcome per match.
   - **Multiple Selection**: Choose multiple outcomes per match to increase winning chances.
-- **Cost**: \uffe52 per ticket.
+- **Cost**: ¥2 per ticket.
 - **Winning Criteria**:
   - **First Prize**: Correctly predict all 14 matches.
   - **Second Prize**: Correctly predict 13 matches.
 - **Prize Pool**: Floating pool based on sales revenue. Unclaimed prizes roll over to the next issue.
 
-### 14 Select 9 (14\u90099)
+### 14 Select 9
 - **Objective**: Predict the results (Win/Draw/Loss) of any 9 matches out of the 14.
 - **Betting Options**:
   - Same as 14 Matches but only for 9 matches.
-- **Cost**: \uffe52 per ticket.
+- **Cost**: ¥2 per ticket.
 - **Winning Criteria**: Correctly predict all 9 selected matches.
 - **Prize Pool**: Separate from the 14 Matches pool and only has one prize level.
 
