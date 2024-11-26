@@ -89,6 +89,7 @@ A Soft Actor-Critic (SAC) reinforcement learning model suggests optimal betting 
      - **< -0.3**: Bet only on the lowest-odds outcome.
      - **-0.3 to 0.3**: Bet on the two lowest-odds outcomes.
      - **> 0.3**: Bet on all three outcomes.
+   - Choose nine smallest actions
 2. **Bet Multiples**: Suggested investment multiplier.
 
 #### **Reward Function**
